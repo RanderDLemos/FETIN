@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Datasets (grandes demais para o git)
+datasets/
+
+# Runs — sobe só o que interessa
+runs/drone_v1/weights/last.pt
+runs/*/train_batch*.jpg
+runs/*/val_batch*.jpg
+runs/**/wandb/
