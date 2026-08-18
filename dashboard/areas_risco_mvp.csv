@@ -1,0 +1,5 @@
+id_area,nome_area,bairro,latitude_centro,longitude_centro,casos_ultimos_14_dias,focos_detectados,bonus_proximidade,score_risco,nivel_risco,prioridade_drone,observacao
+AR-001,Centro - Praça Principal,Centro,-22.2522,-45.7033,7,3,4,27,alto,alta,"Maior concentração de casos e focos no MVP"
+AR-002,Jardim Santo Antônio - Região UBS,Jardim Santo Antônio,-22.2580,-45.7020,4,1,2,13,alto,alta,"Casos próximos ao posto de saúde e foco em terreno baldio"
+AR-003,Jardim das Flores - Quadra A,Jardim das Flores,-22.2490,-45.7010,2,1,0,7,medio,media,"Poucos casos, mas já existe foco suspeito"
+AR-004,Por do Sol - Terminal,Por do Sol,-22.2550,-45.7060,2,0,0,4,baixo,baixa,"Monitorar antes de priorizar drone"

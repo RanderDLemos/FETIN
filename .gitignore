@@ -3,6 +3,9 @@ __pycache__/
 *.pyc
 *.pyo
 
+# macOS
+.DS_Store
+
 # Datasets (grandes demais para o git)
 datasets/
 
@@ -11,3 +14,7 @@ runs/drone_v1/weights/last.pt
 runs/*/train_batch*.jpg
 runs/*/val_batch*.jpg
 runs/**/wandb/
+
+# Gerados em tempo de execução
+blur_output/
+mapa_aeroscan.html

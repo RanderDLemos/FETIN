@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "name": "aeroscan_mvp_marcadores",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AR-001",
+        "tipo": "area_risco",
+        "nome": "Centro - Praça Principal",
+        "bairro": "Centro",
+        "nivel_risco": "alto",
+        "score_risco": 27,
+        "prioridade_drone": "alta"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-45.7058, -22.2510],
+          [-45.7010, -22.2510],
+          [-45.7010, -22.2540],
+          [-45.7058, -22.2540],
+          [-45.7058, -22.2510]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AR-002",
+        "tipo": "area_risco",
+        "nome": "Jardim Santo Antônio - Região UBS",
+        "bairro": "Jardim Santo Antônio",
+        "nivel_risco": "alto",
+        "score_risco": 13,
+        "prioridade_drone": "alta"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-45.7045, -22.2565],
+          [-45.6998, -22.2565],
+          [-45.6998, -22.2598],
+          [-45.7045, -22.2598],
+          [-45.7045, -22.2565]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AR-003",
+        "tipo": "area_risco",
+        "nome": "Jardim das Flores - Quadra A",
+        "bairro": "Jardim das Flores",
+        "nivel_risco": "medio",
+        "score_risco": 7,
+        "prioridade_drone": "media"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-45.7035, -22.2475],
+          [-45.6988, -22.2475],
+          [-45.6988, -22.2508],
+          [-45.7035, -22.2508],
+          [-45.7035, -22.2475]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AR-004",
+        "tipo": "area_risco",
+        "nome": "Por do Sol - Terminal",
+        "bairro": "Por do Sol",
+        "nivel_risco": "baixo",
+        "score_risco": 4,
+        "prioridade_drone": "baixa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-45.7085, -22.2535],
+          [-45.7038, -22.2535],
+          [-45.7038, -22.2568],
+          [-45.7085, -22.2568],
+          [-45.7085, -22.2535]
+        ]]
+      }
+    }
+  ]
+}

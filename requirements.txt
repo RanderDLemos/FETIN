@@ -1,0 +1,12 @@
+# YOLOv8 — treinamento e inferência
+ultralytics==8.4.118
+
+# Download de datasets
+roboflow==1.4.0
+
+# Visão computacional
+opencv-python<5
+
+# Mapa interativo
+folium==0.20.0
+pandas==3.0.5
