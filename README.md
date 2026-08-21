@@ -90,7 +90,7 @@ Painel completo em HTML/CSS/JS puro (sem build, sem dependências de servidor) q
 geral com indicadores e gráficos, mapa de risco interativo e a lista de casos notificados — tudo numa
 única página.
 
-**Acesse online:** [Link do GitHub Pages após publicação]
+**Acesse online:** https://randerdlemos.github.io/FETIN/dashboard/index.html (GitHub Pages)
 
 **Ou rode localmente:** basta dar duplo clique em `dashboard/index.html` (ou usar a extensão Live
 Server) e abrir no navegador. Não precisa instalar nada.
